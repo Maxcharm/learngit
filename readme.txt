@@ -1,2 +1,2 @@
-This is a file to learn git. 
-Git is very good.
+This is a file to learn about git. 
+Git is very good indeed.
