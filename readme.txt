@@ -1,3 +1,3 @@
 This is a file to learn about git. 
 Git is very good indeed if we use it right.
-Git has a mutable index called stage.
+Git has a mutable index called stages.
