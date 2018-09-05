@@ -6,3 +6,4 @@ Git has a mutable index called stages.
 Git tracks changes of files.
 Test a new feature.
 Git can have many branches.
+I dont know why
